@@ -1,0 +1,25 @@
+{
+  "products": {
+    "ZeTech Combat System": {
+      "userIds": [123456789, 987654321, 555555555],
+      "keys": [
+        "ZT-CS-2024-KEY0001",
+        "ZT-CS-2024-KEY0002",
+        "ZT-CS-2024-KEY0003"
+      ]
+    },
+    "ZeTech Admin Panel": {
+      "userIds": [123456789, 777777777],
+      "keys": [
+        "ZT-AP-2024-KEY0001",
+        "ZT-AP-2024-KEY0002"
+      ]
+    },
+    "ZeTech UI Kit": {
+      "userIds": [999999999],
+      "keys": [
+        "ZT-UK-2024-KEY0001"
+      ]
+    }
+  }
+}
