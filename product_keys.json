@@ -1,6 +1,16 @@
 {
   "products": {
-    "ZeTech Combat System": "ZT-CS-2024-ABCD1234",
-    "ZeTech Admin Panel": "ZT-AP-2024-XYZ9876"
+    "ZeTech Combat System": [
+      "ZT-CS-2024-KEY0001",
+      "ZT-CS-2024-KEY0002",
+      "ZT-CS-2024-KEY0003"
+    ],
+    "ZeTech Admin Panel": [
+      "ZT-AP-2024-KEY0001",
+      "ZT-AP-2024-KEY0002"
+    ],
+    "ZeTech UI Kit": [
+      "ZT-UK-2024-KEY0001"
+    ]
   }
 }
